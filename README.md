@@ -1,6 +1,6 @@
 # A Multigrid-inspired Neural Iterative Solver for Poisson Equations on Large Voxel Grids
 
-**Authors:** Kangbo Lyu${ }^{1, 2}$, Ruihong Cen${ }^{1}$, Yushen Wu${ }^1$, Tao Du${ }^{2, 1}$
+**Authors:** Kangbo Lyu ${ }^{1, 2}$, Ruihong Cen ${ }^{1}$, Yushen Wu ${ }^1$, Tao Du ${ }^{2, 1}$
 ${ }^1$ Shanghai Qi Zhi Institute, ${ }^2$ Tsinghua University
 
 This is the official repository for **[A Multigrid-inspired Neural Iterative Solver for Poisson Equations on Large Voxel Grids](https://openreview.net/pdf?id=lNcbGSWhJo)**.
